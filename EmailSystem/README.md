@@ -11,7 +11,7 @@ Simple PHP Email System
  - MYSQL
  - phpmyadmin
 
-![Mystic Adventure Demo](https://tenor.com/kTxSnDfIwiw.gif)
+![Mystic Adventure Demo](https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=790b7611c4jsgwu5ww9h3e6fhoql76uzi9is82hv59umdlmb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I designed a simple mail system from this project. In this mail system, I checked the features of adding, deleting and changing data via mysql using PHP's PDO structure. 
 
